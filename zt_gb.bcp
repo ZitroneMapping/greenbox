@@ -56,12 +56,12 @@
       <option name="Subdivide" checked="False" value="240.0" />
       <option name="Additional Parameters" checked="False" value="" />
     </stage>
-    <stage name="VIS" checked="False">
+    <stage name="VIS" checked="True">
       <option name="Max Distance" checked="False" value="0" />
-      <option name="Vis Type" checked="False" value="Full" />
+      <option name="Vis Type" checked="True" value="Full" />
       <option name="Additional Parameters" checked="False" value="" />
     </stage>
-    <stage name="RAD" checked="True">
+    <stage name="RAD" checked="False">
       <option name="Circus" checked="False" value="" />
       <option name="Custom Shadows" checked="True" value="" />
       <option name="Color Custom Shadows" checked="True" value="" />
@@ -127,7 +127,7 @@
       <option name="No Log" checked="False" value="" />
       <option name="Verbose" checked="False" value="" />
       <option name="Texture Data" checked="False" value="4096" />
-      <option name="Settings" checked="True" value="setting_default.db" />
+      <option name="Settings" checked="False" value="setting_default.db" />
       <option name="Additional Parameters" checked="False" value="" />
     </stage>
     <stage name="RESGen" checked="False">
