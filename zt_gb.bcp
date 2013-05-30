@@ -56,15 +56,15 @@
       <option name="Subdivide" checked="False" value="240.0" />
       <option name="Additional Parameters" checked="False" value="" />
     </stage>
-    <stage name="VIS" checked="True">
+    <stage name="VIS" checked="False">
       <option name="Max Distance" checked="False" value="0" />
       <option name="Vis Type" checked="False" value="Full" />
       <option name="Additional Parameters" checked="False" value="" />
     </stage>
-    <stage name="RAD" checked="False">
+    <stage name="RAD" checked="True">
       <option name="Circus" checked="False" value="" />
-      <option name="Custom Shadows" checked="False" value="" />
-      <option name="Color Custom Shadows" checked="False" value="" />
+      <option name="Custom Shadows" checked="True" value="" />
+      <option name="Color Custom Shadows" checked="True" value="" />
       <option name="Dump Light Patches" checked="False" value="" />
       <option name="Extra" checked="True" value="" />
       <option name="Incremental" checked="False" value="" />
@@ -76,7 +76,7 @@
       <option name="No Sky Fix" checked="False" value="" />
       <option name="No Spot Points" checked="False" value="" />
       <option name="No Texture Scale" checked="True" value="" />
-      <option name="Bounce" checked="True" value="1" />
+      <option name="Bounce" checked="True" value="2" />
       <option name="Chop" checked="False" value="64.0" />
       <option name="Coring" checked="False" value="1.0" />
       <option name="Direct Light" checked="False" value="25.0" />
