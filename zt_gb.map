@@ -1,6 +1,6 @@
 {
 "mapversion" "220"
-"wad" "d:\spiele\steam\steamapps\blumenpower\team fortress classic\tfc\halflife.wad;d:\spiele\steam\steamapps\blumenpower\team fortress classic\tfc\tfc.wad;d:\spiele\steam\steamapps\blumenpower\team fortress classic\tfc\tfc2.wad;d:\spiele\steam\steamapps\blumenpower\team fortress classic\tfc\ravelin.wad;d:\spiele\steam\steamapps\blumenpower\team fortress classic\tfc\xeno.wad;d:\spiele\steam\steamapps\blumenpower\team fortress classic\tfc\ricochet.wad;d:\spiele\steam\steamapps\blumenpower\team fortress classic\tfc\cstrike.wad;d:\spiele\steam\steamapps\blumenpower\team fortress classic\tfc\zhlt.wad;d:\spiele\steam\steamapps\blumenpower\team fortress classic\tfc\zt08_roemnum.wad;d:\spiele\steam\steamapps\blumenpower\team fortress classic\tfc\zt08_colours.wad;d:\spiele\steam\steamapps\blumenpower\team fortress classic\tfc\mecktex.wad;d:\spiele\steam\steamapps\blumenpower\team fortress classic\tfc\rain.wad"
+"wad" "\halflife.wad;\zhlt.wad;\zt08_colours.wad"
 "classname" "worldspawn"
 {
 ( 1024 1024 -256 ) ( 1024 -1024 -256 ) ( -1024 -1024 -256 ) STRIPES4 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
